@@ -1,0 +1,21 @@
+### Java ###
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+### Gradle ###
+# Exclude Folfer List #
+build/
+
+# PDT-specific
+.buildpath
+
+### IntelliJ ###
+*.iml
+*.ipr
+*.iws
+.idea/
+
+/bin
